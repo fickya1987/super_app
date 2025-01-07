@@ -1,11 +1,7 @@
 import streamlit as st
 
 def about():
-    about_text = """This AI-powered Streamlit app allows users to interact with various LLMs through
-    multiple media inputs, including text, images, audio, voice, video, PDF, Docx, and links.
-    Users can choose between a Chatbot, Agents, or a summarizer model, customize voice responses,
-    and reset the conversation as needed. The app processes and responds to queries in real-time,
-    offering an intuitive and versatile experience."""
+    about_text = """Aplikasi Streamlit berbasis AI ini memungkinkan pengguna untuk berinteraksi dengan berbagai LLM (Large Language Models) melalui berbagai jenis media input, termasuk teks, gambar, audio, suara, video, PDF, Docx, dan tautan. Pengguna dapat memilih antara model Chatbot, Agen, atau Ringkasan, menyesuaikan respons suara, dan mengatur ulang percakapan sesuai kebutuhan. Aplikasi ini memproses dan merespons pertanyaan secara real-time, memberikan pengalaman yang intuitif dan serbaguna."""
     return about_text
 
 
