@@ -53,6 +53,20 @@ voices = {
     "Jenny":"en-US-JennyNeural",
     "US Guy":"en-US-GuyNeural",
     "Sawara":"hi-IN-SwaraNeural",
+    "Andrew" : "en-US-AndrewMultilingualNeural",
+    "Ava": "en-US-AvaMultilingualNeural",
+    "Brian": "en-US-BrianMultilingualNeural",
+    "Emma": "en-US-EmmaMultilingualNeural",
+    "Florian": "de-DE-FlorianMultilingualNeural",
+    "Seraphina": "de-DE-SeraphinaMultilingualNeural",
+    "Remy": "fr-FR-RemyMultilingualNeural",
+    "Vivienne": "fr-FR-VivienneMultilingualNeural",
+    "Ardi": "id-ID-ArdiNeural",
+    "Gadis": "id-ID-GadisNeural",
+    "Tuti": "su-ID-TutiNeural",
+    "Jajang": "su-ID-JajangNeural",
+    "Siti": "jv-ID-SitiNeural",
+    "Dimas": "jv-ID-DimasNeural"   
 }
 
 @st.cache_data
