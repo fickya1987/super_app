@@ -549,7 +549,7 @@ else:
 
         else:
             with st.spinner("Transcribing..."):
-                st.session_state.transcribed_text = speech_to_text(language="en", just_once=True, use_container_width=True)
+                st.session_state.transcribed_text = speech_to_text(language="id", just_once=True, use_container_width=True)
         
             if st.session_state.transcribed_text:
                 st.session_state.speech_file_added = True
